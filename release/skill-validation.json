@@ -1,0 +1,10 @@
+{
+  "valid": true,
+  "platform": "generic",
+  "resource_files_checked": 128,
+  "errors": [],
+  "warnings": [
+    "Static format validation is not platform import or marketplace approval.",
+    "Semantic scenarios and original content licensing require the release checklist."
+  ]
+}

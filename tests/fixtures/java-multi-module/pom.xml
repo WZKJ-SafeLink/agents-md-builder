@@ -1,0 +1,1 @@
+<project><artifactId>demo-parent</artifactId><version>1.0</version><properties><boot.version>3.4.2</boot.version></properties><dependencyManagement><dependencies><dependency><artifactId>spring-boot</artifactId><version>${boot.version}</version></dependency></dependencies></dependencyManagement><modules><module>api</module><module>worker</module></modules></project>

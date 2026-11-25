@@ -1,0 +1,36 @@
+{
+  "command": "generate_agents.py CLI against fictional fixtures",
+  "cases": [
+    {
+      "case": "jpa",
+      "candidates": 1,
+      "valid": true,
+      "semantic_review": "not-performed-by-script"
+    },
+    {
+      "case": "vue",
+      "candidates": 1,
+      "valid": true,
+      "semantic_review": "not-performed-by-script"
+    },
+    {
+      "case": "python",
+      "candidates": 1,
+      "valid": true,
+      "semantic_review": "not-performed-by-script"
+    },
+    {
+      "case": "next-en",
+      "candidates": 1,
+      "valid": true,
+      "semantic_review": "not-performed-by-script"
+    },
+    {
+      "case": "hierarchy",
+      "candidates": 3,
+      "valid": true,
+      "semantic_review": "not-performed-by-script"
+    }
+  ],
+  "real_project_commands_executed": false
+}

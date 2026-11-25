@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs><linearGradient id="b" x2="0" y2="1"><stop stop-color="#10264f"/><stop offset="1" stop-color="#1547a0"/></linearGradient></defs>
+<path fill="url(#b)" d="M0 0h512v512H0z"/><path fill="#f8fbff" d="M128 80h188l68 68v276H128z"/><path fill="#b9d7ff" d="M316 80v68h68z"/>
+<text x="153" y="190" font-family="monospace" font-size="24" font-weight="700" fill="#2459b8">AGENTS.md</text>
+<path d="M160 210h164M160 325h104" fill="none" stroke="#dbe8fb" stroke-width="7" stroke-linecap="round"/>
+<path d="m200 245-22 22 22 22m86-44 22 22-22 22m-28-50-26 57" fill="none" stroke="#2459b8" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="365" cy="368" r="79" fill="#10264f"/><circle cx="365" cy="362" r="74" fill="#29d4d0"/><path d="m330 362 24 24 47-48" fill="none" stroke="#10264f" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

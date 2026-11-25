@@ -1,0 +1,90 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Deterministic audit report",
+  "type": "object",
+  "required": [
+    "scoring_version",
+    "kind",
+    "earned",
+    "assessed_weight",
+    "coverage_percent",
+    "total",
+    "reference_normalized_score",
+    "dimensions",
+    "issues",
+    "semantic_review"
+  ],
+  "properties": {
+    "scoring_version": {
+      "type": "string"
+    },
+    "kind": {
+      "enum": [
+        "deterministic-document-checks"
+      ]
+    },
+    "earned": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "assessed_weight": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "coverage_percent": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "total": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "reference_normalized_score": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "grade": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "reference_grade": {
+      "enum": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    "dimensions": {
+      "type": "object",
+      "required": [
+        "completeness",
+        "project_fit",
+        "actionability",
+        "consistency",
+        "security",
+        "testing_delivery",
+        "context_efficiency"
+      ]
+    },
+    "issues": {
+      "type": "array"
+    },
+    "semantic_review": {
+      "type": "object",
+      "required": [
+        "status"
+      ]
+    }
+  }
+}

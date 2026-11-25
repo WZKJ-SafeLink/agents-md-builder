@@ -1,0 +1,175 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Project profile",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "technologies",
+    "modules",
+    "commands",
+    "architecture",
+    "scan"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string"
+    },
+    "technologies": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "name",
+          "category",
+          "version",
+          "confidence",
+          "status",
+          "evidence"
+        ],
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "category": {
+            "enum": [
+              "language",
+              "framework",
+              "database",
+              "middleware"
+            ]
+          },
+          "version": {
+            "type": "string"
+          },
+          "confidence": {
+            "enum": [
+              "high",
+              "medium",
+              "low"
+            ]
+          },
+          "status": {
+            "enum": [
+              "confirmed",
+              "range",
+              "inherited",
+              "inferred",
+              "unknown",
+              "user-declared"
+            ]
+          },
+          "evidence": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "required": [
+                "path",
+                "locator"
+              ],
+              "properties": {
+                "path": {
+                  "type": "string"
+                },
+                "locator": {
+                  "type": "string"
+                },
+                "type": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "modules": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "path",
+          "evidence",
+          "kind"
+        ],
+        "properties": {
+          "path": {
+            "type": "string"
+          },
+          "evidence": {
+            "type": "string"
+          },
+          "kind": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "commands": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "command",
+          "cwd",
+          "purpose",
+          "evidence",
+          "execution"
+        ],
+        "properties": {
+          "command": {
+            "type": "string"
+          },
+          "cwd": {
+            "type": "string"
+          },
+          "purpose": {
+            "type": "string"
+          },
+          "evidence": {
+            "type": "object",
+            "required": [
+              "path",
+              "locator"
+            ],
+            "properties": {
+              "path": {
+                "type": "string"
+              },
+              "locator": {
+                "type": "string"
+              },
+              "type": {
+                "type": "string"
+              }
+            }
+          },
+          "execution": {
+            "enum": [
+              "not-run"
+            ]
+          }
+        }
+      }
+    },
+    "architecture": {
+      "type": "array"
+    },
+    "scan": {
+      "type": "object",
+      "required": [
+        "file_count",
+        "truncated"
+      ],
+      "properties": {
+        "file_count": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "truncated": {
+          "type": "boolean"
+        }
+      }
+    }
+  }
+}

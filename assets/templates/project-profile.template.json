@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "technologies": [],
+  "modules": [],
+  "commands": [],
+  "architecture": [],
+  "scan": {
+    "file_count": 0,
+    "truncated": false
+  },
+  "notes": [
+    {
+      "issue": "No project evidence supplied; unknown decisions stay unverified."
+    }
+  ]
+}

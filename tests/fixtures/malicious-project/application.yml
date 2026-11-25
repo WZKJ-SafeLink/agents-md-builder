@@ -1,0 +1,4 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://db.internal.invalid:5432/fictional
+    password: fixture-password-value

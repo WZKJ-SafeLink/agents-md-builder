@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-24",
+  "artifacts": [
+    {
+      "path": "dist/agents-md-builder-v1.0.0.zip",
+      "platform": "generic",
+      "bytes": 198700,
+      "sha256": "c4856eaf1214af931935f7a980df08b205f2b3e23231200600979af7384363f3",
+      "files": 137,
+      "crc_valid": true,
+      "extracted_validation": {
+        "valid": true,
+        "platform": "generic",
+        "resource_files_checked": 128,
+        "errors": [],
+        "warnings": [
+          "Static format validation is not platform import or marketplace approval.",
+          "Semantic scenarios and original content licensing require the release checklist."
+        ]
+      },
+      "manifest_valid": true,
+      "entrypoint_fields": [
+        "description",
+        "name"
+      ],
+      "marketplace_import": "not-performed",
+      "marketplace_approval": "not-performed"
+    },
+    {
+      "path": "dist/agents-md-builder-workbuddy-v1.0.0.zip",
+      "platform": "workbuddy",
+      "bytes": 198803,
+      "sha256": "1f6f7c55217e563a49bbf1a7e87bbffd56d81893e7cc6dde2a6716251b28998b",
+      "files": 137,
+      "crc_valid": true,
+      "extracted_validation": {
+        "valid": true,
+        "platform": "workbuddy",
+        "resource_files_checked": 128,
+        "errors": [],
+        "warnings": [
+          "Static format validation is not platform import or marketplace approval.",
+          "Semantic scenarios and original content licensing require the release checklist."
+        ]
+      },
+      "manifest_valid": true,
+      "entrypoint_fields": [
+        "author",
+        "description",
+        "description_en",
+        "description_zh",
+        "display_name",
+        "display_name_en",
+        "name",
+        "version"
+      ],
+      "marketplace_import": "not-performed",
+      "marketplace_approval": "not-performed"
+    }
+  ]
+}

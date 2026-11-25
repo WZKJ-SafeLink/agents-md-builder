@@ -1,0 +1,626 @@
+[
+  {
+    "url": "https://agents.md/",
+    "effective_url": "https://agents.md/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://agentskills.io/specification",
+    "effective_url": "https://agentskills.io/specification",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://angular.dev/",
+    "effective_url": "https://angular.dev/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://baomidou.com/",
+    "effective_url": "https://baomidou.com/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://cheatsheetseries.owasp.org/",
+    "effective_url": "https://cheatsheetseries.owasp.org/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://cloud.tencent.com/document",
+    "effective_url": "https://cloud.tencent.com/document",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://cwe.mitre.org/",
+    "effective_url": "https://cwe.mitre.org/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://dart.dev/guides",
+    "effective_url": "https://dart.dev/docs",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://dev.mysql.com/doc/",
+    "effective_url": "https://dev.mysql.com/doc/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://developer.android.com/guide",
+    "effective_url": "https://developer.android.com/get-started/overview",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://developer.apple.com/documentation/",
+    "effective_url": "https://developer.apple.com/documentation/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "effective_url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://developers.openai.com/codex/guides/agents-md/",
+    "effective_url": "https://learn.chatgpt.com/docs/agent-configuration/agents-md",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://developers.weixin.qq.com/",
+    "effective_url": "https://developers.weixin.qq.com/community/error/emergency?forceLogin=true&force_redirect_url=/",
+    "http_status": "302",
+    "checked_at": "2026-11-24",
+    "status": "not-verified",
+    "rules_verified": false
+  },
+  {
+    "url": "https://developers.weixin.qq.com/miniprogram/dev/framework/",
+    "effective_url": "https://developers.weixin.qq.com/miniprogram/dev/framework/",
+    "http_status": "000",
+    "checked_at": "2026-11-24",
+    "status": "not-verified",
+    "rules_verified": false
+  },
+  {
+    "url": "https://doc.rust-lang.org/book/",
+    "effective_url": "https://doc.rust-lang.org/book/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://docs.djangoproject.com/",
+    "effective_url": "https://docs.djangoproject.com/en/6.1/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://docs.docker.com/build/",
+    "effective_url": "https://docs.docker.com/build/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://docs.flutter.dev/",
+    "effective_url": "https://docs.flutter.dev/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://docs.github.com/actions/security-for-github-actions",
+    "effective_url": "https://docs.github.com/en/actions/how-tos/secure-your-work",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://docs.nestjs.com/",
+    "effective_url": "https://docs.nestjs.com/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://docs.npmjs.com/cli/commands/npm-ci",
+    "effective_url": "https://docs.npmjs.com/cli/commands/npm-ci/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://docs.oasis-open.org/mqtt/mqtt/v5.0/mqtt-v5.0.html",
+    "effective_url": "https://docs.oasis-open.org/mqtt/mqtt/v5.0/mqtt-v5.0.html",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://docs.oracle.com/",
+    "effective_url": "https://docs.oracle.com/",
+    "http_status": "000",
+    "checked_at": "2026-11-24",
+    "status": "not-verified",
+    "rules_verified": false
+  },
+  {
+    "url": "https://docs.oracle.com/javase/specs/",
+    "effective_url": "https://docs.oracle.com/javase/specs/",
+    "http_status": "000",
+    "checked_at": "2026-11-24",
+    "status": "not-verified",
+    "rules_verified": false
+  },
+  {
+    "url": "https://docs.oracle.com/javase/tutorial/essential/concurrency/",
+    "effective_url": "https://docs.oracle.com/javase/tutorial/essential/concurrency/",
+    "http_status": "000",
+    "checked_at": "2026-11-24",
+    "status": "not-verified",
+    "rules_verified": false
+  },
+  {
+    "url": "https://docs.python.org/",
+    "effective_url": "https://docs.python.org/3/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://docs.python.org/3/",
+    "effective_url": "https://docs.python.org/3/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://docs.python.org/3/library/unittest.html",
+    "effective_url": "https://docs.python.org/3/library/unittest.html",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://docs.python.org/3/tutorial/errors.html",
+    "effective_url": "https://docs.python.org/3/tutorial/errors.html",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://docs.ruby-lang.org/en/",
+    "effective_url": "https://docs.ruby-lang.org/en/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://docs.spring.io/",
+    "effective_url": "https://spring.io/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://docs.spring.io/spring-boot/reference/",
+    "effective_url": "https://docs.spring.io/spring-boot/reference/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://docs.spring.io/spring-data/jpa/reference/",
+    "effective_url": "https://docs.spring.io/spring-data/jpa/reference/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://docs.spring.io/spring-framework/reference/",
+    "effective_url": "https://docs.spring.io/spring-framework/reference/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://docs.spring.io/spring-framework/reference/data-access/transaction.html",
+    "effective_url": "https://docs.spring.io/spring-framework/reference/data-access/transaction.html",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://expressjs.com/",
+    "effective_url": "https://expressjs.com/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://fastapi.tiangolo.com/",
+    "effective_url": "https://fastapi.tiangolo.com/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://flask.palletsprojects.com/",
+    "effective_url": "https://flask.palletsprojects.com/en/stable/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://git-scm.com/doc",
+    "effective_url": "https://git-scm.com/doc",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://github.com/alibaba/p3c",
+    "effective_url": "https://github.com/alibaba/p3c",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://go.dev/doc/",
+    "effective_url": "https://go.dev/doc/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://google.github.io/eng-practices/review/",
+    "effective_url": "https://google.github.io/eng-practices/review/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://hibernate.org/",
+    "effective_url": "https://hibernate.org/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://isocpp.org/",
+    "effective_url": "https://isocpp.org/",
+    "http_status": "403",
+    "checked_at": "2026-11-24",
+    "status": "not-verified",
+    "rules_verified": false
+  },
+  {
+    "url": "https://kafka.apache.org/documentation/",
+    "effective_url": "https://kafka.apache.org/documentation/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://kotlinlang.org/docs/",
+    "effective_url": "https://kotlinlang.org/docs/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://kubernetes.io/docs/",
+    "effective_url": "https://kubernetes.io/docs/home/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://learn.microsoft.com/aspnet/core/",
+    "effective_url": "https://learn.microsoft.com/en-us/aspnet/core/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://learn.microsoft.com/dotnet/csharp/",
+    "effective_url": "https://learn.microsoft.com/en-us/dotnet/csharp/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://learn.microsoft.com/sql/sql-server/",
+    "effective_url": "https://learn.microsoft.com/en-us/sql/sql-server/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://martinfowler.com/architecture/",
+    "effective_url": "https://martinfowler.com/architecture/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://mybatis.org/mybatis-3/",
+    "effective_url": "https://mybatis.org/mybatis-3/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://nextjs.org/docs",
+    "effective_url": "https://nextjs.org/docs",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://nuxt.com/docs",
+    "effective_url": "https://nuxt.com/docs/4.x/getting-started/introduction",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://open.workbuddy.cn/docs/skill",
+    "effective_url": "https://open.workbuddy.cn/docs/skill",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://openjdk.org/",
+    "effective_url": "https://openjdk.org/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://owasp.org/",
+    "effective_url": "https://owasp.org/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://owasp.org/www-project-cheat-sheets/",
+    "effective_url": "https://owasp.org/projects/cheat-sheet-series",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://peps.python.org/pep-0008/",
+    "effective_url": "https://peps.python.org/pep-0008/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://react.dev/learn",
+    "effective_url": "https://react.dev/learn",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://reactnative.dev/docs/getting-started",
+    "effective_url": "https://reactnative.dev/docs/getting-started",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://redis.io/docs/",
+    "effective_url": "https://redis.io/docs/latest/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://rocketmq.apache.org/docs/",
+    "effective_url": "https://rocketmq.apache.org/docs/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://uniapp.dcloud.net.cn/",
+    "effective_url": "https://uniapp.dcloud.net.cn/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://vuejs.org/guide/",
+    "effective_url": "https://vuejs.org/guide/introduction.html",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://workbuddy.qq.com/",
+    "effective_url": "https://www.workbuddy.cn/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://www.elastic.co/docs/",
+    "effective_url": "https://www.elastic.co/docs",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://www.mongodb.com/docs/",
+    "effective_url": "https://www.mongodb.com/docs/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://www.oasis-open.org/",
+    "effective_url": "https://www.oasis-open.org/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://www.php.net/manual/en/",
+    "effective_url": "https://www.php.net/manual/en/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://www.postgresql.org/docs/",
+    "effective_url": "https://www.postgresql.org/docs/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://www.postgresql.org/docs/current/using-explain.html",
+    "effective_url": "https://www.postgresql.org/docs/current/using-explain.html",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://www.rabbitmq.com/docs",
+    "effective_url": "https://www.rabbitmq.com/docs",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://www.rfc-editor.org/rfc/rfc9110",
+    "effective_url": "https://www.rfc-editor.org/info/rfc9110/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://www.sqlite.org/docs.html",
+    "effective_url": "https://www.sqlite.org/docs.html",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://www.swift.org/documentation/",
+    "effective_url": "https://www.swift.org/documentation/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/",
+    "effective_url": "https://www.typescriptlang.org/docs/",
+    "http_status": "200",
+    "checked_at": "2026-11-24",
+    "status": "accessible",
+    "rules_verified": false
+  }
+]

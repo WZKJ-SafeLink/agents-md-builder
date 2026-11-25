@@ -1,0 +1,283 @@
+{
+  "scoring_version": "1.0.0",
+  "kind": "deterministic-document-checks",
+  "earned": 97.0,
+  "assessed_weight": 100,
+  "coverage_percent": 100,
+  "total": 97.0,
+  "reference_normalized_score": 97.0,
+  "grade": "A",
+  "reference_grade": "A",
+  "high_risk": [],
+  "dimensions": {
+    "completeness": {
+      "weight": 20,
+      "status": "assessed",
+      "score": 20.0,
+      "checks": [
+        {
+          "check": "project",
+          "weight": 2.857142857142857,
+          "applicability": "assessed",
+          "passed": true,
+          "deduction": 0,
+          "evidence": "Applicable document topic scan",
+          "suggestion": ""
+        },
+        {
+          "check": "stack",
+          "weight": 2.857142857142857,
+          "applicability": "assessed",
+          "passed": true,
+          "deduction": 0,
+          "evidence": "Applicable document topic scan",
+          "suggestion": ""
+        },
+        {
+          "check": "boundaries",
+          "weight": 2.857142857142857,
+          "applicability": "assessed",
+          "passed": true,
+          "deduction": 0,
+          "evidence": "Applicable document topic scan",
+          "suggestion": ""
+        },
+        {
+          "check": "coding",
+          "weight": 2.857142857142857,
+          "applicability": "assessed",
+          "passed": true,
+          "deduction": 0,
+          "evidence": "Applicable document topic scan",
+          "suggestion": ""
+        },
+        {
+          "check": "errors",
+          "weight": 2.857142857142857,
+          "applicability": "assessed",
+          "passed": true,
+          "deduction": 0,
+          "evidence": "Applicable document topic scan",
+          "suggestion": ""
+        },
+        {
+          "check": "security",
+          "weight": 2.857142857142857,
+          "applicability": "assessed",
+          "passed": true,
+          "deduction": 0,
+          "evidence": "Applicable document topic scan",
+          "suggestion": ""
+        },
+        {
+          "check": "testing",
+          "weight": 2.857142857142857,
+          "applicability": "assessed",
+          "passed": true,
+          "deduction": 0,
+          "evidence": "Applicable document topic scan",
+          "suggestion": ""
+        }
+      ]
+    },
+    "project_fit": {
+      "weight": 20,
+      "status": "assessed",
+      "score": 20,
+      "checks": [
+        {
+          "check": "declared-technologies-mentioned",
+          "weight": 4,
+          "applicability": "assessed",
+          "passed": true,
+          "deduction": 0,
+          "evidence": "No declared frameworks/databases",
+          "suggestion": ""
+        },
+        {
+          "check": "declared-versions",
+          "weight": 4,
+          "applicability": "assessed",
+          "passed": true,
+          "deduction": 0,
+          "evidence": "Compared explicit nearby versions to exact static declarations",
+          "suggestion": ""
+        },
+        {
+          "check": "path-anchors",
+          "weight": 4,
+          "applicability": "assessed",
+          "passed": true,
+          "deduction": 0,
+          "evidence": "Checked backtick path candidates",
+          "suggestion": ""
+        },
+        {
+          "check": "commands-have-evidence",
+          "weight": 4,
+          "applicability": "assessed",
+          "passed": true,
+          "deduction": 0,
+          "evidence": "Compared recognized commands to static declarations",
+          "suggestion": ""
+        },
+        {
+          "check": "scan-coverage",
+          "weight": 4,
+          "applicability": "assessed",
+          "passed": true,
+          "deduction": 0,
+          "evidence": "Scan truncated: False",
+          "suggestion": ""
+        }
+      ]
+    },
+    "actionability": {
+      "weight": 20,
+      "status": "assessed",
+      "score": 20,
+      "checks": [
+        {
+          "check": "has-rule-actions",
+          "weight": 12,
+          "applicability": "assessed",
+          "passed": true,
+          "deduction": 0,
+          "evidence": "15/16 list items have action markers",
+          "suggestion": ""
+        },
+        {
+          "check": "vague-rule-control",
+          "weight": 8,
+          "applicability": "assessed",
+          "passed": true,
+          "deduction": 0,
+          "evidence": "0 vague candidate rules",
+          "suggestion": ""
+        }
+      ]
+    },
+    "consistency": {
+      "weight": 10,
+      "status": "assessed",
+      "score": 10,
+      "checks": [
+        {
+          "check": "explicit-conflict-candidates",
+          "weight": 6,
+          "applicability": "assessed",
+          "passed": true,
+          "deduction": 0,
+          "evidence": "Text candidates and optional structured rules; semantics unverified",
+          "suggestion": ""
+        },
+        {
+          "check": "duplicate-control",
+          "weight": 4,
+          "applicability": "assessed",
+          "passed": true,
+          "deduction": 0,
+          "evidence": "Same-section exact duplicate checks",
+          "suggestion": ""
+        }
+      ]
+    },
+    "security": {
+      "weight": 10,
+      "status": "assessed",
+      "score": 10,
+      "checks": [
+        {
+          "check": "no-detected-high-risk",
+          "weight": 6,
+          "applicability": "assessed",
+          "passed": true,
+          "deduction": 0,
+          "evidence": "0 high-risk findings",
+          "suggestion": ""
+        },
+        {
+          "check": "privacy-and-change-boundaries",
+          "weight": 4,
+          "applicability": "assessed",
+          "passed": true,
+          "deduction": 0,
+          "evidence": "Privacy and authorization markers",
+          "suggestion": ""
+        }
+      ]
+    },
+    "testing_delivery": {
+      "weight": 10,
+      "status": "assessed",
+      "score": 7,
+      "checks": [
+        {
+          "check": "test-command-or-honest-unknown",
+          "weight": 4,
+          "applicability": "assessed",
+          "passed": true,
+          "deduction": 0,
+          "evidence": "Test command or stated limitation",
+          "suggestion": ""
+        },
+        {
+          "check": "acceptance",
+          "weight": 3,
+          "applicability": "assessed",
+          "passed": false,
+          "deduction": 3,
+          "evidence": "Acceptance topic",
+          "suggestion": "State change-specific acceptance requirements."
+        },
+        {
+          "check": "honest-execution",
+          "weight": 3,
+          "applicability": "assessed",
+          "passed": true,
+          "deduction": 0,
+          "evidence": "Execution status marker",
+          "suggestion": ""
+        }
+      ]
+    },
+    "context_efficiency": {
+      "weight": 10,
+      "status": "assessed",
+      "score": 10,
+      "checks": [
+        {
+          "check": "byte-budget",
+          "weight": 5,
+          "applicability": "assessed",
+          "passed": true,
+          "deduction": 0,
+          "evidence": "2560/16384 bytes; product recommendation",
+          "suggestion": ""
+        },
+        {
+          "check": "format-and-placeholders",
+          "weight": 5,
+          "applicability": "assessed",
+          "passed": true,
+          "deduction": 0,
+          "evidence": "Format, placeholder and duplicate checks",
+          "suggestion": ""
+        }
+      ]
+    }
+  },
+  "issues": [],
+  "semantic_review": {
+    "status": "not-performed-by-script",
+    "required": [
+      "Technical accuracy",
+      "Architecture fitness",
+      "Natural-language conflicts",
+      "Version-specific constraints"
+    ]
+  },
+  "limitations": [
+    "Document indicators only; not code quality, security certification or a full semantic score."
+  ]
+}
